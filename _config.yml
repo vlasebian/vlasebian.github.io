@@ -7,15 +7,12 @@ permalink:        pretty
 
 # Setup
 title:            reflection
-tagline:          'coding blog'
-description:      'Lorem ipsum, lorem ipsum, lorem ipsum'
+tagline:          'another coding blog'
+description:      'Learning, cheatsheets, tips, computer engineering related topics.'
 url:              https://vlasebian.github.io
 baseurl:          https://vlasebian.github.io/
 
 paginate:         5
 
-# Custom vars
-version:          2.1.0
+# Custom variables
 
-github:
-  repo:           https://github.com/poole/hyde
