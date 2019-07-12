@@ -4,14 +4,13 @@ highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
 
 # Setup
 title:            reflection
 tagline:          'coding blog'
 description:      'Lorem ipsum, lorem ipsum, lorem ipsum'
-url:              http://vlasebian.github.io
-baseurl:          /
+url:              https://vlasebian.github.io
+baseurl:          https://vlasebian.github.io/
 
 paginate:         5
 
