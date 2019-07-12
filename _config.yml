@@ -1,0 +1,22 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            reflection
+tagline:          'coding blog'
+description:      'Lorem ipsum, lorem ipsum, lorem ipsum'
+url:              http://vlasebian.github.io
+baseurl:          /
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/poole/hyde
